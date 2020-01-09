@@ -1,4 +1,4 @@
-##          Group Personal Information 
+##          <p style="text-align: center;"> Group Personal Information  </p>
 ***
 (Group name - A2Group8)
 
