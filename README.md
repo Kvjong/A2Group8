@@ -2,7 +2,8 @@
 ***
 (Group name - A2Group8)
 
-1. Sam Jones
-2. Jacob Smith
-3. Scott 
-4. Kim Jong
+-  *Sam Jones*
+- *Jacob Smith*
+https://jkobie812.github.io/Jacob-s-Profile/Index.html
+- *Scott* 
+- *Kim Jong*
