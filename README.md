@@ -5,7 +5,10 @@
 -  **Sam Jones**
 
 - **Jacob Smith**
-   [Assignment 1 Website](https://jkobie812.github.io/Jacob-s-Profile/Index.html)
+>
+>
+>
+> [Assignment 1 Website](https://jkobie812.github.io/Jacob-s-Profile/Index.html)
 - **Scott**
 
 - **Kim Jong**
