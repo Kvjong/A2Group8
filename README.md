@@ -4,6 +4,6 @@
 
 -  **Sam Jones**
 - **Jacob Smith**
-1. <https://jkobie812.github.io/Jacob-s-Profile/Index.html>
+  1. <https://jkobie812.github.io/Jacob-s-Profile/Index.html>
 - **Scott**
 - **Kim Jong**
