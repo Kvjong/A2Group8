@@ -1,4 +1,4 @@
-<center> ## Group Personal Information </center>
+## <center> Group Personal Information </center>
 ***
 (Group name - A2Group8)
 
