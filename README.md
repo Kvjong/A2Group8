@@ -14,9 +14,9 @@
 
 - **Scott Smith - S3825329**
 
-I have been working in IT since 2007. During that time I have worked as a Network Engineer, Desktop Support Engineer and most recently a Project Manager. Prior to entering the IT industry, I was a member of the Australian Army for almost 8 years.
-I am a father of 3 children, who keep me very busy. When I am not spending time with my children, I love to go Mountain Biking. As I live in Canberra, I am very spoilt for places to go riding. 
-As I have worked in the IT industry for over 12 years, I realise there are so many opportunites. I am excited to see where this degree takes me.
+>I have been working in IT since 2007. During that time I have worked as a Network Engineer, Desktop Support Engineer and most recently >a Project Manager. Prior to entering the IT industry, I was a member of the Australian Army for almost 8 years.
+>I am a father of 3 children, who keep me very busy. When I am not spending time with my children, I love to go Mountain Biking. As I >live in Canberra, I am very spoilt for places to go riding. 
+>As I have worked in the IT industry for over 12 years, I realise there are so many opportunites. I am excited to see where this degree >takes me.
 
 - **Kim Ve Jong - S3833727**
 
