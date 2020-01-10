@@ -1,7 +1,7 @@
 
 # <center> Group Personal Information </center>
 ***
-<center>**(Group name - A2Group8)**</center>
+**<center>(Group name - A2Group8)</center>**
 
 
 ### Group Personal Interests and Summary
