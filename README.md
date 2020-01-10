@@ -4,7 +4,7 @@
 **<center>(Group name - A2Group8)</center>**
 
 
-### <right>Group Personal Interests and Summary</right>
+### <center>Group Personal Interests and Summary</center>
 
 
 -  **Sam Jones - S3828578**
