@@ -38,7 +38,7 @@ takes me.
 
 - **David Mulgrue - S3824946**
 
-[Assignment 1 Website]<https://S3824946.github.io/S3824946>
+[Assignment 1 Website] <https://S3824946.github.io/S3824946>
 >I've been living and breathing IT since I was a young child and we had our first computer, a Commodore 64.
 I always wanted to work out how they worked, and I was always the one that caught the blame when something went wrong because I was always tinkering, fiddling, and working things out.
 When  finished yr12 I went into a course doing Computer forensics, which gave me enough knowledge and experience to jump into an IT support role after I dropped out of the course.
