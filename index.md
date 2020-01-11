@@ -103,6 +103,7 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
 
 # <center> Group Reports & Further Information </center> 
 <p>Below are linkns to further information for the different portions of this assignment, please follow links to new pages for information.</p>
+
 ### 1. [Burning Glass Data Analysis](burningglassdata.md) 
 ### 2. [IT Work & Interview](itinterview.md)
 ### 3. [IT Technologies Reports](ittechnologies.md)
