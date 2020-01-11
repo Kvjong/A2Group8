@@ -46,6 +46,6 @@ takes me.
 
 | Our Test Results| Samuel Jones | Jacob Smith | Kim Ve Jong | Scott Smith | David Mulgrue |
 |:---------------:|:------------:|:-----------:|:-----------:|:-----------:|:-------------:|
-|16 Personalities |     x        | x           | x           |         x   |        x      |
-|Learning Style   |x             |x            |x            |x            |x              |
-| Unique Tests    |              |             |             |             |               |
+|16 Personalities |     INTP     | N/A         | INFJ-A      |    ESTJ-A   |    INFP-T     |
+|Learning Style   |Audio/Visual  | N/A         |Visual       |Visual       |Visual/Tactile |
+| Unique Tests    |              | N/A         |             |<a href = "http://www.testmycreativity.com/share/1E573be6d26c"> Creativity Test           </a> |               |
