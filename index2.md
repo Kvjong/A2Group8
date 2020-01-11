@@ -3,7 +3,7 @@
 ***
 **<center>(Group name - A2Group8)</center>**
 
-<a href="index.md">Page 2</a>
+<a href="index2.md">Page 2</a>
 
 ### <center>Group Personal Interests and Summary</center>
 
