@@ -3,6 +3,7 @@
 ***
 **<center>(Group name - A2Group8)</center>**
 
+<a href="page2.md">Page 2</a>
 
 ### <center>Group Personal Interests and Summary</center>
 
