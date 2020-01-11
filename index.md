@@ -3,7 +3,7 @@
 ***
 **<center>(Group name - A2Group8)</center>**
 
-<a href="index2.md">Page 2</a>
+[a relative link](index2.md)
 
 ### <center>Group Personal Interests and Summary</center>
 
