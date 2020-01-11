@@ -46,5 +46,6 @@ takes me.
 
 | Our Test Results| Samuel Jones | Jacob Smith | Kim Ve Jong | Scott Smith | David Mulgrue |
 |:---------------:|:------------:|:-----------:|:-----------:|:-----------:|:-------------:|
-|Result 1         |     x        | x           | x           |         x   |        x      |
-|:---------------:|:------------:|:-----------:|:-----------:|:-----------:|:-------------:| 
+|16 Personalities |     x        | x           | x           |         x   |        x      |
+|Learning Style   |x             |x            |x            |x            |x              |
+| Unique Tests    |              |             |             |             |               |
