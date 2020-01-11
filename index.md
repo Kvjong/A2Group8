@@ -111,4 +111,4 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
 ### 5. [Group Reflection](groupreflection.md)
 
 
-
+***
