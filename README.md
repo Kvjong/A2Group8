@@ -41,7 +41,7 @@ takes me.
 
 ***
 
-# <center>Our Personality Profiles</center>
+# <center> Our Personality Profiles </center>
 
 
 |     Test Results| Samuel Jones | Jacob Smith | Kim Ve Jong | Scott Smith | David Mulgrue |
