@@ -86,7 +86,7 @@ Lastly, because of our high creativity, we may find that we have clashing vision
 | Samuel Jones | Jacob Smith | Kim Ve Jong | Scott Smith | David Mulgrue |
 |:------------:|:-----------:|:-----------:|:-----------:|:-------------:|
 | Software Dev | Systems Analyst | Cyber Security | Desktop Team Leader | iOs Engineer |
-|              |             |             |             |                |
+                                                                    
 
 ### <center> Observations </center>
 
