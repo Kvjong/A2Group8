@@ -44,8 +44,8 @@ takes me.
 # Our Personality Profiles
 
 
-| Our Test Results| Samuel Jones | Jacob Smith | Kim Ve Jong | Scott Smith | David Mulgrue |
+|     Test Results| Samuel Jones | Jacob Smith | Kim Ve Jong | Scott Smith | David Mulgrue |
 |:---------------:|:------------:|:-----------:|:-----------:|:-----------:|:-------------:|
-|16 Personalities |     INTP     | N/A         | INFJ-A      |    ESTJ-A   |    INFP-T     |
+|Myers-Briggs |     INTP     | N/A         | INFJ-A      |    ESTJ-A   |    INFP-T     |
 |Learning Style   |Audio/Visual  | N/A         |Visual       |Visual       |Visual/Tactile |
 | Unique Tests    |  <a href = "https://www.mindtools.com/pages/article/creativity-quiz.htm">Creativity Test</a>            | N/A         | <a href = "https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.5,3.9,3.9,4.1,3.8#_V">Psychometrics Test</a>            |<a href = "http://www.testmycreativity.com/share/1E573be6d26c"> Creativity Test           </a> |     Big Five - High Openness          |
