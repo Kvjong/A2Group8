@@ -86,15 +86,15 @@ Lastly, because of our high creativity, we may find that we have clashing vision
 
 | Samuel Jones | Jacob Smith | Kim Ve Jong | Scott Smith | David Mulgrue |
 |:------------:|:-----------:|:-----------:|:-----------:|:-------------:|
-| Software Dev | Systems Analyst | Cyber Security | Desktop Team Leader | iOs Engineer |
+| Software Dev | Systems Analyst | Policy Analyst | Desktop Team Leader | iOs Engineer |
                                                                     
 
 ### <center> Observations </center>
 
-<p>Though we have some minor career goals in common, our group could actually make up a minor IT department in a company, we have aspiring back-end developers, cyber security, desktop managers, ui/app developers and a systems analyst to keep everything in working order!
+<p>Though we have some minor career goals in common, our group could actually make up a minor IT department in a company, we have aspiring back-end developers, policy analysts, desktop managers, ui/app developers and a systems analyst to keep everything in working order!
 This goes to show how varied the scope of an "IT" Career is, and how many potential opportunities can come from developing this skillset!<br>
 Though one thing to note is that the majority of our group do not wish to be "front-facing" this actually lines up quite well with how our personality results went from earlier, as the same majority are classified as introverts.<br>
-Samuel, Kim and David are development focused, where Jacob and Scott are more systems focused roles. 
+Samuel, Kim and David are development/back-end focused, where Jacob and Scott are more systems or front facing roles. 
   
 </p>
 
