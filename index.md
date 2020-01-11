@@ -37,9 +37,7 @@ takes me.
 - **Kim Ve Jong - S3833727**
 
 [Assignment 1 Website] <https://kvjong.github.io/CPT110/Index.html>
->Filler Text to go here
-
-
+>My interest in IT goes back to the 80’s when my friends had Amiga 500 and Commodore 64. My first computer was a 80286 pc, before getting 80386Dx 40 and followed by 80486 DX50 in the 90’s. I started in Dos 3.3 and Windows 3.0 and did all my stuff on the pc by then. Assignments and games were all done on a computer ever since. Later in the late 90’s I worked in the IT field of assemble, diagnose and troubleshoot PC’s, servers, printers and operating system in Windows 98 / Se and Windows NT / 2000. By the time Windows XP rolled around, I started to move into Telecommunications industry in Telstra as sub-contract for 3G SDH network growth. The work requires travel around the country, and in my case majority of the east coast of Australia where the population is more dense. I have always kept up to date with IT in terms of hardware and software and I am also a PC Gamer, and have a large collection of games in steam (though I have only played a fraction of those games).
 
 
   
@@ -98,17 +96,17 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
   
 </p>
 
+***
 
 
+# <center> Group Reports & Further Information Links </center> 
+<p>Below are links to further information for the different portions of this assignment, please follow links to new pages for information.</p>
 
-# <center> Group Reports & Further Information </center> 
-<p>Below are linkns to further information for the different portions of this assignment, please follow links to new pages for information.</p>
-
-### 1. [Burning Glass Data Analysis](burningglassdata.md) 
-### 2. [IT Work & Interview](itinterview.md)
-### 3. [IT Technologies Reports](ittechnologies.md)
-### 4. [Project Report](projectreport.md)
-### 5. [Group Reflection](groupreflection.md)
+#### 1. [Burning Glass Data Analysis](burningglassdata.md) 
+#### 2. [IT Work & Interview](itinterview.md)
+#### 3. [IT Technologies Reports](ittechnologies.md)
+#### 4. [Project Report](projectreport.md)
+#### 5. [Group Reflection](groupreflection.md)
 
 
 ***
