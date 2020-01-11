@@ -62,8 +62,8 @@ Looking to the future I plan to focus on software engineering and programming to
 
 |     Test Results| Samuel Jones | Jacob Smith | Kim Ve Jong | Scott Smith | David Mulgrue |
 |:---------------:|:------------:|:-----------:|:-----------:|:-----------:|:-------------:|
-|Myers-Briggs |     INTP     | N/A         | INFJ-A      |    ESTJ-A   |    INFP-T     |
-|Learning Style   |Audio/Visual  | N/A         |Visual       |Visual       |Visual/Tactile |
+|Myers-Briggs |     INTP     | ESFJ - A         | INFJ-A      |    ESTJ-A   |    INFP-T     |
+|Learning Style   |Audio/Visual  | Audio/Visual         |Visual       |Visual       |Visual/Tactile |
 | Unique Tests    |  <a href = "https://www.mindtools.com/pages/article/creativity-quiz.htm">Creativity Test</a>            | N/A         | <a href = "https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.5,3.9,3.9,4.1,3.8#_V">Psychometrics Test</a>            |<a href = "http://www.testmycreativity.com/share/1E573be6d26c"> Creativity Test           </a> |     Big Five - High Openness          |
 
 ### <center> Observations </center>
@@ -76,3 +76,28 @@ Lastly, because of our high creativity, we may find that we have clashing vision
 </p>
 
 ***
+
+# <center> Our Ideal Jobs </center>
+
+
+### <center> Jobs </center>
+| Samuel Jones | Jacob Smith | Kim Ve Jong | Scott Smith | David Mulgrue |
+|:------------:|:-----------:|:-----------:|:-----------:|:-------------:|
+| Software Dev | Systems Analyst|Cyber Security|Desktop Team Leader| iOs Engineer|
+
+### <center> Observations </center>
+
+<p>Though we have some minor career goals in common, our group could actually make up a minor IT department in a company, we have aspiring back-end developers, cyber security, desktop managers, ui/app developers and a systems analyst to keep everything in working order!
+This goes to show how varied the scope of an "IT" Career is, and how many potential opportunities can come from developing this skillset!<br>
+Though one thing to note is that the majority of our group do not wish to be "front-facing" this actually lines up quite well with how our personality results went from earlier, as the same majority are classified as introverts.<br>
+Samuel, Kim and David are development focused, where Jacob and Scott are more systems focused roles. 
+  
+</p>
+
+
+
+
+
+
+
+
