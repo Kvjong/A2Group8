@@ -16,6 +16,9 @@
 <p>The ideal role for Kim is in the field of Policy for the Public sector. The skills needed for Policy is the understanding of Policy cycle, current legislation, departmental budget, Microsoft packages, understand the criteria and objective, prepare report for presentation and formulate advice. The traits needed for the policy role include analytical skills, problem solving, research, knowledge on current policy and legislation including law, being able to work under pressure and meeting scheduled deadlines. With Kim Ve’s current studies in the relevant field for Public Service, the degree has positioned Kim to pursue the role of Policy worker. <br>
 David Mulgrue – The ideal role for David is in the field of a Software Engineer specialising in iOS systems. It is a developer role for mobile devices by building reusable code and library for later use. The role also required collaborating with the backend team to integrate apps and API’s. The knowledge includes C, Apple tools, Android and Windows coding. The trait the for the suitable candidate includes presentation, analytical skills and problem solving skills.</p>
 
+#### David Mulgrue
+<p>David Mulgrue – The ideal role for David is in the field of a Software Engineer specialising in iOS systems. It is a developer role for mobile devices by building reusable code and library for later use. The role also required collaborating with the backend team to integrate apps and API’s. The knowledge includes C, Apple tools, Android and Windows coding. The trait the for the suitable candidate includes presentation, analytical skills and problem solving skills.</p>
+
 
 
 ### <center>Ideal Jobs - Group's Core Skill Requirements</center>
