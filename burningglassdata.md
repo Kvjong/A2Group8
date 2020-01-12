@@ -33,6 +33,13 @@ David Mulgrue – The ideal role for David is in the field of a Software Enginee
 However, each of our group members also has a unique subset skill that is suitable and curated for their role more specifically. They are:
 </p>
 
+- Presentation Skills
+<p>Samuel Jones – A unique set of subset skills required for the ideal job. This is very important because presentation in terms of powerpoint slides, dress code and grooming will set an impression, including an impression of the work. Even the way Samuel codes will need to have a proper structured coding that makes much more readable and not look like spaghetti style coding. So presentation skills for Samuel is a must.</p>
+
+- Multi-Tasking
+<p>Jacob Smith – The role of Information systems analyst may need to wear a different hat here and there, by the project being analysed. There may be multiple projects happening at the same time and applying efficiency by using a suite of applications for tracking, analysing, estimate, costing, resources and much more indeed does require multitasking and delegation. An example of  requiring the knowledge of lean six sigma is a testament to the importance of multitasking.</p>
+
+-
 
 
 
