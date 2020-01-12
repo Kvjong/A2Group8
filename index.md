@@ -63,7 +63,7 @@ Looking to the future I plan to focus on software engineering and programming to
 |:---------------:|:------------:|:-----------:|:-----------:|:-----------:|:-------------:|
 |Myers-Briggs |     INTP     | ESFJ - A         | INFJ-A      |    ESTJ-A   |    INFP-T     |
 |Learning Style   |Audio/Visual  | Audio/Visual         |Visual       |Visual       |Visual/Tactile |
-| Unique Tests    |  <a href = "https://www.mindtools.com/pages/article/creativity-quiz.htm">Creativity Test</a>            | N/A         | <a href = "https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.5,3.9,3.9,4.1,3.8#_V">Psychometrics Test</a>            |<a href = "http://www.testmycreativity.com/share/1E573be6d26c"> Creativity Test           </a> |     Big Five - High Openness          |
+| Unique Tests    |  <a href = "https://www.mindtools.com/pages/article/creativity-quiz.htm">Creativity Test</a>            | Creativity Score - 61         | <a href = "https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.5,3.9,3.9,4.1,3.8#_V">Psychometrics Test</a>            |<a href = "http://www.testmycreativity.com/share/1E573be6d26c"> Creativity Test           </a> |     Big Five - High Openness          |
 
 ### <center> Observations </center>
 <p>The biggest over arching factor for our personality test results is that we have a lot in common as a group, combining our strengths but highlighting our weaknesses. Overall, we have a tendency towards both introversion and visual style learning, which means that we may have a hard time getting organised as nobody wishes to take charge, so it will be important for us to have someone be the voice of the group and give direction, though this is a generalisation and we may find that the personalities in the group are more complex than that.  <br><br>
@@ -98,14 +98,16 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
 
 
 ***
-# Tools
-### Group Links
+# <center>Tools</center>
+### <center>Group Links</center>
+
+
 [Group Website](https://kvjong.github.io/A2Group8/) <br>
 [Group Github repository](https://github.com/Kvjong/A2Group8)
 
 
-### Observations
-<img src="groupcommitbreakdown.png" alt="drawing" width="500" height ="400">
+### <center>Observations</center>
+<img src="groupcommitbreakdown.png" alt="group commits" width="450" height ="400">
 
 <p>The breakdown of tasks as they were assigned:<br>
 1. Jacob - Crypto Report<br>
