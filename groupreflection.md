@@ -30,7 +30,7 @@ One thing about groups, every person has their own ‘pros and cons’ communica
 I think we did really well compiling data as a group. If anything could be improved it would be working on communication. The most surprising thing was how well all come up with ideas that contributes to the group.  Something that I learnt about groups is that some people don’t respond to messages and talk to you about the group assignments. Sam has 94 commits to the GitHub page, Kim has 15 commits to the GitHub page, scoot has 4 commits to the GitHub page, I have 2 commits to the github page. I think  this data is very accurate in compiling data. Overall I think everyone has put in 100% effort except for the 2 guys who wished not to participate, but all in all we did pretty well at compiling data and transferring it from whether its word doc or text document into the website.
 
 
-## <center> GitHub Data & Discord </center>
+# <center> GitHub Data & Discord </center>
 
 Below is a snapshot of our commit history (before final edits) and a our discord where have two channels and have been communicating on a regular basis.
 
