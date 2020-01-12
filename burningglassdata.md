@@ -33,16 +33,16 @@ David Mulgrue – The ideal role for David is in the field of a Software Enginee
 However, each of our group members also has a unique subset skill that is suitable and curated for their role more specifically. They are:
 </p>
 
-- **Presentation Skills
+- <b>Presentation Skills</b>
 <p>Samuel Jones – A unique set of subset skills required for the ideal job. This is very important because presentation in terms of powerpoint slides, dress code and grooming will set an impression, including an impression of the work. Even the way Samuel codes will need to have a proper structured coding that makes much more readable and not look like spaghetti style coding. So presentation skills for Samuel is a must.</p>
 
-- **Multi-Tasking
+- <b>Multi-Tasking</b>
 <p>Jacob Smith – The role of Information systems analyst may need to wear a different hat here and there, by the project being analysed. There may be multiple projects happening at the same time and applying efficiency by using a suite of applications for tracking, analysing, estimate, costing, resources and much more indeed does require multitasking and delegation. An example of  requiring the knowledge of lean six sigma is a testament to the importance of multitasking.</p>
 
-- **Leadership
+- <b>Leadership</b>
 <p>Scott Smith – The ideal role of IT Management / Leadership is leadership skills to guide and mentor staff to meet the objective requirements set by the organisation. Scott may need to wear different hats everyday, such as mentoring staff, sensitive conversation, meeting with upper management or a meeting with the group. As management, Scott also needs to possess customer excellence to retain external stakeholders, customers and clients to ensure the well being of the organisation.</p>
 
-- **Research
+- <b>Research</b>
 <p>Kim Ve Jong – As an ideal work in the policy in the public sector, research is paramount  to understand and articulate the formulation of policy or an update to policy change. There are so many components that make up policy, such as legislation, law from each states, political climate, data, and knowledge is an essential component. However, research skills play a crucial role in policy because it ensures that policy drafted is well refined and has been researched thoroughly covering aspects that is meant to be covered. 
 Below are the core skills requirement from Burning Glass data encapsulating our group’s core skills and our unique subset skill in demand of the industries.
 </p>
