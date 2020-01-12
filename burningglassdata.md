@@ -66,7 +66,7 @@ Below are the core skills requirement from Burning Glass data encapsulating our 
 
 <p>Furthermore, the top job types in Australia data collected from the Department of Jobs and Small Business reveal the core role and positions filled in the Industry. For example the position of software and applications developer has around 123 thousand employed in that field and the ANZSCO code is 2613. Below are the graph for the team’s desired role encapsulated in the occupation matrix from the Department of Jobs and Small Business:<br></p>
 
-<img src="bglassdata3.png" alt="burning glass data" width="400" height ="400">
+<img src="bglassdata3.png" alt="burning glass data 3" width="400" height ="400">
 
 <br><br>
 
@@ -75,7 +75,7 @@ Below are the core skills requirement from Burning Glass data encapsulating our 
 
 <p>Based on the data provided on Burning glass data, the three highest skills not listed in our group is organisational skills, writing and planning. However, the core skill requirements that our group has identified would be able to cover these areas adequately and with an additional member being David joining our team recently, we have expanded our capabilities and resource sharing.</p><br><br>
 
-<img src="bglassdata4.png" alt="burning glass data" width="400" height ="400">
+<img src="bglassdata4.png" alt="burning glass data 4" width="400" height ="400">
 
 <br><br>
 <p>From the list of IT skills in highest demand and not in our groups list are Graphic Design, SAP and Javascript. Although Kim Ve’s preferred policy role has very little to with specific IT software and hardware platform, it means these skills will be covered by the other team members and minimising this capability gap. </p>
