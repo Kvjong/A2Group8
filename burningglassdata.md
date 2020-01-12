@@ -18,7 +18,7 @@ David Mulgrue – The ideal role for David is in the field of a Software Enginee
 
 
 
-### Ideal Jobs - Group's Core Skill Requirements
+### <center>Ideal Jobs - Group's Core Skill Requirements</center>
 
 
 <p>Based on our group’s desired career choice and our ideal paths that we all want to forge, we have identified our group’s core requirement:<br> </p>
