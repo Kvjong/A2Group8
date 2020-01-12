@@ -107,7 +107,7 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
 
 
 ### <center>Observations</center>
-<img src="groupcommitbreakdown.png" alt="drawing" width="450" height ="400">
+<img src="groupcommitbreakdown.png" alt="group commits" width="450" height ="400">
 
 <p>The breakdown of tasks as they were assigned:<br>
 1. Jacob - Crypto Report<br>
