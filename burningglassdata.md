@@ -66,7 +66,7 @@ Below are the core skills requirement from Burning Glass data encapsulating our 
 
 <p>Furthermore, the top job types in Australia data collected from the Department of Jobs and Small Business reveal the core role and positions filled in the Industry. For example the position of software and applications developer has around 123 thousand employed in that field and the ANZSCO code is 2613. Below are the graph for the team’s desired role encapsulated in the occupation matrix from the Department of Jobs and Small Business:<br></p>
 
-<img src="blgassdata3.png" alt="burning glass data 3" width="700" height ="300">
+<img src="blgassdata3.png" alt="burning glass data 3" width="650" height ="150">
 
 <br><br>
 
