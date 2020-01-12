@@ -96,13 +96,16 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
   
 </p>
 
-***
+
 ***
 # Tools
-[Group Website](https://kvjong.github.io/A2Group8/)
+### Group Links
+[Group Website](https://kvjong.github.io/A2Group8/) <br>
 [Group Github repository](https://github.com/Kvjong/A2Group8)
 
-![alt Text] [groupcommitbreakdown]
+
+### Observations
+![alt Text][groupcommitbreakdown]
 
 <p></p>
 
