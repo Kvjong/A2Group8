@@ -105,7 +105,7 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
 
 
 ### Observations
-![alt text](https://github.com/Kvjong/A2Group8/blob/master/groupcommitbreakdown.png "Commit Breakdown")
+<img src="groupcommitbreakdown.png" alt="drawing" width="400" height ="400">
 
 <p></p>
 
