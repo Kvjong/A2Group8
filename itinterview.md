@@ -1,6 +1,6 @@
 # <center> IT Interview </center>
 
-### What kind of work is done by the IT professional
+### What kind of work is done by the IT professional?
 
 Desktop Support Engineer. Contractor to the Department of Defence Since 2010.
 As part of the Endpoint Services team, I am responsible for level 2 and level 3 support. That can involve the following:
