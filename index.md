@@ -98,14 +98,16 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
 
 
 ***
-# Tools
-### Group Links
+# <center>Tools</center>
+### <center>Group Links</center>
+
+
 [Group Website](https://kvjong.github.io/A2Group8/) <br>
 [Group Github repository](https://github.com/Kvjong/A2Group8)
 
 
-### Observations
-<img src="groupcommitbreakdown.png" alt="drawing" width="500" height ="400">
+### <center>Observations</center>
+<img src="groupcommitbreakdown.png" alt="drawing" width="450" height ="400">
 
 <p>The breakdown of tasks as they were assigned:<br>
 1. Jacob - Crypto Report<br>
