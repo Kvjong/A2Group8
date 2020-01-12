@@ -1,7 +1,7 @@
 # <center> References </center>
 
 
-1. Dash, L. (2020). Cryptocurrencies, Blockchain Technology and the Real Property Market. [online] Investbarbados.org. Available at: https://www.investbarbados.org/newsmain.php?view=Cryptocurrencies%20Blockchain%20Technology%20and%20the%20Real%20Property%20Market [Accessed 12 Jan. 2020]. <br><br>
+1. Dash, L. (2020). Cryptocurrencies, Blockchain Technology and the Real Property Market. (online) Investbarbados.org. Available at: https://www.investbarbados.org/newsmain.php?<br>view=Cryptocurrencies%20Blockchain%20Technology%20and%20the%20Real%20Property%20Market [Accessed 12 Jan. 2020]. <br><br>
 
 2. Ecpi.edu. (2019). New Cybersecurity Technologies: What is Shaking Up the Field?. [online] Available at: https://www.ecpi.edu/blog/new-cybersecurity-technologies-what-is-shaking-up-the-field [Accessed 12 Jan. 2020]. <br><br>
 
