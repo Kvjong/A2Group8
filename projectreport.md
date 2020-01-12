@@ -1,6 +1,6 @@
-# Project Report
+# <center>Project Report</center>
 
-### Group A2Group8 Project Report: Touchglobe
+### <center>Group A2Group8 Project Report: Touchglobe</center>
 
 Together as a group we decided to settle on utilising the project idea of TouchGlobe, originally envisioned by Sam Jones, due to the fact it was a straightforward concept with real-world applications that are desirable and practical for businesses to implement without significant cost.<br><br>
 TouchGlobe is essentially an online booking UI for the cruise industry, that is designed to fill what appears to be a glaring hole in the design of current online booking Systems for cruise lines. As we can see from the following basic searches on three major cruise line websites (Norwegian Cruise Line, G Adventures) each of these business’ utilise a simple search list feature for planning holidays with them, which may be suitable for some guests, does not provide a kinaesthetic or audio interaction in any way, in addition to this, it provides low user interactivity, which has been linked to higher engagement.<br><br>
