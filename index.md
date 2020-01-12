@@ -107,7 +107,16 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
 ### Observations
 <img src="groupcommitbreakdown.png" alt="drawing" width="400" height ="400">
 
-<p></p>
+<p>The breakdown of tasks as they were assigned:<br>
+1. Jacob - Crypto Report<br>
+2. Scott - Cloud Report, IT professional Interview<br>
+3. Kim - Burning Glass Data, creating & maintaining GIT repository, data compilation<br>
+4. Sam - Website, Cybersecurity Report, Job Comparison, Project Report, Observations on personality Tests, team leading and administration<br>
+5. David - Autonomous Vehicles Report, Compiling Data, Tools observation & Copy editing<br><br>
+
+Due to the nature of some of the work being done, the github audit isn’t 100% accurate, as some tasks only involve one file being uploaded that is a significant amount of work, such as the individual reports, compiling and copy editing, and the creation and maintenance of the repository itself. The audit is also biased in that it doesn't show any contribution from David at all as David joined the team late and has mostly focused on Compiling and editing.
+That said one thing that is definitely clear and accurate is that the amount of work put in by Sam, who has by far put in the most work in organising, writing and analysis.
+</p>
 
 ***
 
