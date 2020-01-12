@@ -63,7 +63,7 @@ Looking to the future I plan to focus on software engineering and programming to
 |:---------------:|:------------:|:-----------:|:-----------:|:-----------:|:-------------:|
 |Myers-Briggs |     INTP     | ESFJ - A         | INFJ-A      |    ESTJ-A   |    INFP-T     |
 |Learning Style   |Audio/Visual  | Audio/Visual         |Visual       |Visual       |Visual/Tactile |
-| Unique Tests    |  <a href = "https://www.mindtools.com/pages/article/creativity-quiz.htm">Creativity Test</a>            | N/A         | <a href = "https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.5,3.9,3.9,4.1,3.8#_V">Psychometrics Test</a>            |<a href = "http://www.testmycreativity.com/share/1E573be6d26c"> Creativity Test           </a> |     Big Five - High Openness          |
+| Unique Tests    |  <a href = "https://www.mindtools.com/pages/article/creativity-quiz.htm">Creativity Test</a>            | Creativity Score - 61         | <a href = "https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.5,3.9,3.9,4.1,3.8#_V">Psychometrics Test</a>            |<a href = "http://www.testmycreativity.com/share/1E573be6d26c"> Creativity Test           </a> |     Big Five - High Openness          |
 
 ### <center> Observations </center>
 <p>The biggest over arching factor for our personality test results is that we have a lot in common as a group, combining our strengths but highlighting our weaknesses. Overall, we have a tendency towards both introversion and visual style learning, which means that we may have a hard time getting organised as nobody wishes to take charge, so it will be important for us to have someone be the voice of the group and give direction, though this is a generalisation and we may find that the personalities in the group are more complex than that.  <br><br>
@@ -96,8 +96,31 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
   
 </p>
 
-***
 
+***
+# <center>Tools</center>
+### <center>Group Links</center>
+
+
+[Group Website](https://kvjong.github.io/A2Group8/) <br>
+[Group Github repository](https://github.com/Kvjong/A2Group8)
+
+
+### <center>Observations</center>
+<img src="groupcommitbreakdown.png" alt="group commits" width="450" height ="400">
+
+<p>The breakdown of tasks as they were assigned:<br>
+1. Jacob - Crypto Report<br>
+2. Scott - Cloud Report, IT professional Interview<br>
+3. Kim - Burning Glass Data, creating & maintaining GIT repository, data compilation<br>
+4. Sam - Website, Cybersecurity Report, Job Comparison, Project Report, Observations on personality Tests, team leading and administration<br>
+5. David - Autonomous Vehicles Report, Compiling Data, Tools observation & Copy editing<br><br>
+
+Due to the nature of some of the work being done, the github audit isn’t 100% accurate, as some tasks only involve one file being uploaded that is a significant amount of work, such as the individual reports, compiling and copy editing, and the creation and maintenance of the repository itself. The audit is also biased in that it doesn't show any contribution from David at all as David joined the team late and has mostly focused on Compiling and editing.
+That said one thing that is definitely clear and accurate is that the amount of work put in by Sam, who has by far put in the most work in organising, writing and analysis.
+</p>
+
+***
 
 # <center> Group Reports & Further Information Links </center> 
 <p>Below are links to further information for the different portions of this assignment, please follow links to new pages for information.</p>
