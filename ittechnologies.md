@@ -51,7 +51,7 @@ With regards to business’ and two factor authentication, it is common practice
  
  
  ***
- <h3> Autonomous Vehicles </h3>
+ <center><h3> Autonomous Vehicles </h3></center>
  
 The current state of Autonomous Vehicles as a whole is, frankly, an absolutely huge subject.<br><br>
 The simplest and most core of the idea is that a vehicle can, with the assistance of an onboard computer and sophisticated sensor technology, act in accordance with its surroundings to take action without the direct input of a human driver.<br><br>
@@ -100,3 +100,34 @@ To some of my family members the biggest benefit would be similar; the ability t
 
 ***
 
+<center><h3> Crytopcurrency and Blockcahin </h3></center>
+
+
+Blockchain and Cryptocurrencies are a fascinating development that is currently ongoing in the IT world. It changes the way products and services can be paid for online, and with new upcoming developments, in person as well. Historic examples of this magnitude include the internet, smartphones, cloud computing, and public-key cryptography. <br><br>
+
+Blockchains are an internet based record keeping technology most well known as the technology behind bitcoin. Blockchain i sa distributed, decentralised public ledger, that could be described as a chain of blocks holding digital information. These blocks are able to store all sorts of information, such as the date, time and value of a purchase, who is participating in a transaction using a digital signature, and unique identifiers for the blocks themselves, called a Hash.<br>
+Every single block’s hash is unique. Even if you make two separate transactions at the exact same time, of the same product from the same source for the same amount, the block’s hashes will be unique and different so they can be told apart.<br><br>
+
+Public-key cryptocurrency is based on the internet is used to make trades anonymously. The most important feature of these cryptocurrencies is that they are not controlled by any central authority; the decentralised nature of the blockchain makes cryptocurrencies immune to government control and interference. Cryptocurrencies can also be sent between two people using public and private keys to avoid the cost of major bank fees.<br>
+Bitcoin is “Mined” by computers around the world by processing transactions on the blockchain with distributed computing.<br><br>
+
+As of the time of writing, the current price of bitcoin is $11,756.65 in Australian dollars, and increasing global uncertainties will likely push more investors into bitcoin as it becomes recognised as a store of value.<br><br>
+
+While Bitcoin mining can be mined on a smartphone, it’s not a worthwhile solution as it will use a lot of energy for a relatively low power device; most bitcoin mining is undertaken on desktop PCs and in a larger amount by specialised large servers.<br>
+The better use of a smartphone when it comes to cryptocurrencies is as storage for your Digital Wallet. These digital wallets are used with most cryptocurrencies as a way to store your money; these style wallets are used, among others, by Bitcoin, Ethereum, Ripple, Litecoin, and Bitcoin Cash.<br>
+The wallet stores the public and private “Keys” or addresses which can be used to send or receive the currency. With the private key it is possible to write in the public ledger, effectively spending the associated currency by assigning it to another person’s key. The public key is used as a receiving address, which people can use to sign their currency over into your wallet.<br><br>
+
+Cryptocurrency is currently illegal in a number of countries, including Algeria, Egypt, Morocco, Nepal and Pakistan, and the countries that have a Banking Ban are Saudi Arabia, Jordan, Iran, Bangladesh, India, China, and Cambodia. These banking bans are essentially the local reserve bank disallowing any banking organisations from accepting or trading in cryptocurrencies.<br>
+However as the development of bitcoin is decentralised it is a promising development for a more financially inclusive world.<br><br>
+
+The rise of cryptocurrency can potentially have a huge impact on the real estate industry as it currently relies on an inefficient loop between Attorneys, financial institutions, and real estate agents, which has the effect of making transactions slow and cumbersome. This ineffective loop stems from a lack of guarantees of trust between parties, which can escalate costs by as much as 10%.<br>
+Blockchain technology and the use of smart contracts can revolutionise this process while complying with legal requirements. The smart contract code will facilitate, verify and enforce the negotiation or performance of any agreement or transaction. <br><br>
+
+Of course these advancements, while they are able to massively expand access, still require massive changes to financial law; they need a legal framework that is responsive and will enable them to work, and there are a lot of regulators and innovators in the tech space that are working hard to address this needed change. A leader of this is the Financial Services Commission in Barbados, who have created a working group to consult on the creation of new financial regulations that can be applied to digital assets, and propose new regulatory sandboxes for individual products. This approach to regulation focuses on having no more or less regulation than is required to eliminate systemic risks and minimise consumer vulnerability, while still leaving breathing room for innovation. Some particularly necessary changes include modification of the legal requirements for stock exchange so that they cover digital assets, while maintaining compliance with anti money laundering and know-your-client requirements.<br>
+These legal modifications will bring financial law into the new era, and the regulators in Barbados are well underway to making these changes. <br><br>
+
+There are unfortunately a substantial number of drawbacks with cryptocurrency as well; As a person’s wallet is secured with a private key, there is a not insignificant number of hackers that will attempt to steal the key to make off with the data; as the keys are anonymous and not regulated by any governing body, they are also susceptible to theft with little recourse.
+The anonymity also lends itself to shadier uses, with the well known and very large Silk Road website being an example of people being able to buy drugs, weapons, and other illicit substances and services with no legal oversight.<br>
+Another massive issue is one of energy use;  as it currently stands the popularity of bitcoin has led to huge racks and data centres full of servers mining bitcoin, which uses huge amounts of energy. This has gotten to a point that not only is there little profit to the venture with the amount of money required to buy hardware and keep up with energy requirements, but it also has a very large carbon footprint.<br><br>
+
+***
