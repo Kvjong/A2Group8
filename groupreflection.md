@@ -16,9 +16,9 @@ I’ve found that while this group has had some relatively small communication p
 ### Scott Smith
 >I have worked in many teams in my career, made up of people from various backgrounds and cultures. This is the first time that I have worked in a team of people that I haven’t met. As we are only a couple of days out from submission date, overall, I feel that our team has worked quite well together. We were off to a “shaky” start due to the Christmas period and most of us working different jobs, particularly those that work in a shift work environment.<br><br>
 
-We initially tried to do voice discord chats, that didn’t work out well due to the aforementioned reasons. So, we ended up using Discord text chat which was a far better solution, people could reply when they had a chance. Once we had our communication sorted, tasks were assigned, and we were able to work within our own time for overall compilation later. We could have improved by communicating earlier.<br><br>
+>We initially tried to do voice discord chats, that didn’t work out well due to the aforementioned reasons. So, we ended up using Discord text chat which was a far better solution, people could reply when they had a chance. Once we had our communication sorted, tasks were assigned, and we were able to work within our own time for overall compilation later. We could have improved by communicating earlier.<br><br>
 
-Once thing that was surprising (but not bad) we had a new member join our team only 6 days out from submission. The member was having problems communicating with his own team, so we felt we were in a position to help him.<br>
+>Once thing that was surprising (but not bad) we had a new member join our team only 6 days out from submission. The member was having problems communicating with his own team, so we felt we were in a position to help him.<br>
 One thing about groups, every person has their own ‘pros and cons’ communication is key. You can’t rush things, everyone has their own busy schedule.
 
 ### Samuel Jones
@@ -32,5 +32,7 @@ I think we did really well compiling data as a group. If anything could be impro
 
 ## <center> GitHub Data & Discord </center>
 
+Below is a snapshot of our commit history (before final edits) and a our discord where have two channels and have been communicating on a regular basis.
+
 <img src="githubdatasummary.png" alt="github data" width="642" height="540">
-<img src="discordsnap.png" alt="github data" width="642" height="600">
+<img src="discordsnap.png" alt="github data" width="642" height="250">
