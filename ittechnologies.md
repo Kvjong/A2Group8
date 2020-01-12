@@ -51,10 +51,9 @@ With regards to business’ and two factor authentication, it is common practice
  
  
  ***
+ <h3> Autonomous Vehicles </h3>
  
- ### <center>Autonomous Vehicles</center> ###
- 
- The current state of Autonomous Vehicles as a whole is, frankly, an absolutely huge subject.<br><br>
+The current state of Autonomous Vehicles as a whole is, frankly, an absolutely huge subject.<br><br>
 The simplest and most core of the idea is that a vehicle can, with the assistance of an onboard computer and sophisticated sensor technology, act in accordance with its surroundings to take action without the direct input of a human driver.<br><br>
 The general classification of autonomous vehicles comes under a five tier system, with each tier having specifics of what the vehicle can do, from simple driver assistance tools all the way up to fully automated trips between places without the need for human intervention.<br><br>
 In depth discussion of the technology is easiest with a knowledge of these tiers, which are laid out below.<br><br>
