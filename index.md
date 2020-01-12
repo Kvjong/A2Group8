@@ -105,7 +105,7 @@ Samuel, Kim and David are development/back-end focused, where Jacob and Scott ar
 
 
 ### Observations
-![alt Text][groupcommitbreakdown]
+![alt text][groupcommitbreakdown]
 
 <p></p>
 
